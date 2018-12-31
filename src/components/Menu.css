@@ -1,0 +1,13 @@
+.menubackground{
+    background: black;
+    padding: 4rem;
+}
+.menustyle{
+    float:right;
+}
+
+.menustyle li{
+    display: inline;
+    padding: 2rem;
+    
+}
